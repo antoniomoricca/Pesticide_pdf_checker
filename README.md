@@ -15,7 +15,7 @@ Before running the code, make sure to set up the following .env file in the proj
 - OPENAI_API_KEY=your_api_key_here
 ```
 - Tesseract OCR: download and install Tesseract from https://github.com/tesseract-ocr/tesseract
- and set the path to the tesserect .ext.
+ and set the path to the tesserect .exe.
 ```
 - TESSERACT_CMD=C:/Program Files/Tesseract-OCR/tesseract.exe
 ```
@@ -45,7 +45,7 @@ python cli.py --pdf "path/to/your/file.pdf"
 
 ## How it Works
 
-The project processes PDF files to extract information, feeds this information to a Large Language Model (LLM) to generate a JSON, and then enriches the JSON via API calls to obtain the EU pesticide limits for the specific products.  
+The project processes PDF files to extract information, feeds this information to a Large Language Model (LLM) to generate a JSON, and then enriches the JSON via API calls to obtain the EU pesticide limits for the specific products, and finally assess wheter tha analysis made on the product are compliant with the EU regulations.
 
 At the core of the architecture, **LangGraph was used to orchestrate the workflow**. This design was chosen because it is robust, production-ready, and scalable: multiple tools can be added, and a human-in-the-loop step can be incorporated if needed.  It is also possible to use an LLM as a router to decide which tools to call or whether to take intermediate steps back. However, giving more control to the LLM can reduce robustness, so trade-offs should be carefully evaluated.  
 
