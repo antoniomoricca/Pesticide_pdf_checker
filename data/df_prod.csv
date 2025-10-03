@@ -1,0 +1,382 @@
+language,product_id,product_parent_id,product_code,product_type_id,product_name,product_scientific_names
+EN,379,,1100000,1,"PRODUCTS OF ANIMAL ORIGIN - FISH, FISHPRODUCTS AND ANY OTHER MARINE AND FRESHWATER FOOD PRODUCTS (8)",
+EN,109,108.0,0220010,4,Garlic,"Allium sativum, "
+EN,349,313.0,1016000,3,(f) poultry,
+EN,338,335.0,1014030,4,Liver,
+EN,204,201.0,0300030,4,Peas,"Pisum sativum, "
+EN,160,158.0,0252020,4,Purslanes,"Portulaca oleracea, "
+EN,342,313.0,1015000,3,(e) equine,"Equus spp., "
+EN,363,312.0,1020000,2,Milk,
+EN,269,267.0,0810020,4,Black caraway/black cumin,"Bunium persicum, "
+EN,173,166.0,0256070,4,Thyme,"Thymus vulgaris, "
+EN,270,267.0,0810030,4,Celery,"Apium graveolens, "
+EN,54,45.0,0154990,5,Others (2),
+EN,28,22.0,0130990,5,Others (2),
+EN,153,148.0,0251050,4,Land cresses,"Barbarea verna, "
+EN,137,134.0,0241990,5,Others (2),
+EN,221,208.0,0401130,4,Gold of pleasure seeds,"Camelina sativa, "
+EN,52,45.0,0154070,4,Azaroles/Mediterranean medlars,"Crataegus azarolus, "
+EN,286,278.0,0820080,4,Tamarind,"Tamarindus indica, "
+EN,75,73.0,0163020,4,Bananas,"Musa acuminata, Musa acuminata x Musa balbisiana, Musa balbisiana, "
+EN,103,95.0,0213080,4,Radishes,"Raphanus sativus Radish Group, "
+EN,368,363.0,1020990,5,Others (2),
+EN,32,29.0,0140030,4,Peaches,"Persica vulgaris; syn: Prunus persica, "
+EN,69,65.0,0162040,4,Prickly pears/cactus fruits,"Opuntia ficus-indica, "
+EN,229,225.0,0402040,4,Kapok,"Ceiba pentandra, "
+EN,340,335.0,1014050,4,Edible offals (other than liver and kidney),
+EN,365,363.0,1020020,4,Sheep,"Ovis aries, "
+EN,198,196.0,0280020,4,Wild fungi,
+EN,367,363.0,1020040,4,Horse,"Equus caballus, "
+EN,336,335.0,1014010,4,Muscle,
+EN,10,9.0,0120010,4,Almonds,"Amygdalus communis; syn: Prunus dulcis, "
+EN,296,291.0,0840990,5,Others (2),
+EN,350,349.0,1016010,4,Muscle,
+EN,149,148.0,0251010,4,Lamb's lettuces/corn salads,"Valerianella locusta, "
+EN,102,95.0,0213070,4,Parsley roots/Hamburg roots parsley,"Petroselinum crispum convar. radicosum, "
+EN,205,201.0,0300040,4,Lupins/lupini beans,"Lupinus albus subsp. albus, Lupinus angustifolius, Lupinus luteus, Lupinus mutabilis, "
+EN,19,9.0,0120100,4,Pistachios,"Pistacia vera, "
+EN,155,148.0,0251070,4,Red mustards,"Brassica juncea var. rugosa, "
+EN,7,2.0,0110050,4,Mandarins,"Citrus reticulata; syn: Citrus deliciosa, "
+EN,214,208.0,0401060,4,Rapeseeds/canola seeds,"Brassica napus subsp. napus, "
+EN,37,36.0,0151010,4,Table grapes,"Vitis vinifera, "
+EN,288,266.0,0830000,2,Bark spices,
+EN,95,87.0,0213000,3,(c) other root and tuber vegetables except sugar beets,
+EN,114,86.0,0230000,2,Fruiting vegetables,
+EN,111,108.0,0220030,4,Shallots,"Allium cepa Aggregatum Group; syn: Allium ascalonicum, "
+EN,309,307.0,0900020,4,Sugar canes,"Saccharum officinarum, "
+EN,117,115.0,0231020,4,Sweet peppers/bell peppers,"Capsicum annuum, "
+EN,238,231.0,0500070,4,Rye,"Secale cereale, "
+EN,330,328.0,1013020,4,Fat,
+EN,115,114.0,0231000,3,(a) Solanaceae and Malvaceae,
+EN,265,,0700000,1,HOPS,"Humulus lupulus, "
+EN,319,314.0,1011050,4,Edible offals (other than liver and kidney),
+EN,163,147.0,0253000,3,(c) grape leaves and similar species,"Vitis vinifera, "
+EN,34,29.0,0140990,5,Others (2),
+EN,80,73.0,0163070,4,Guavas,"Psidium guajava, "
+EN,328,313.0,1013000,3,(c) sheep,"Ovis aries, "
+EN,312,,1000000,1,PRODUCTS OF ANIMAL ORIGIN -TERRESTRIAL ANIMALS,
+EN,335,313.0,1014000,3,d) goat,"Capra aegagrus hircus, "
+EN,159,158.0,0252010,4,Spinaches,"Spinacia oleracea, "
+EN,49,45.0,0154040,4,"Gooseberries (green, red and yellow)","Ribes uva-crispa, "
+EN,140,138.0,0242020,4,Head cabbages,"Brassica oleracea var. capitata, "
+EN,169,166.0,0256030,4,Celery leaves,"Apium graveolens var. secalinum, "
+EN,200,86.0,0290000,2,Algae and prokaryotes organisms,
+EN,327,321.0,1012990,5,Others (2),
+EN,1,,0100000,1,"FRUITS, FRESH or FROZEN; TREE NUTS",
+EN,316,314.0,1011020,4,Fat,
+EN,17,9.0,0120080,4,Pecans,"Carya illinoinensis, "
+EN,154,148.0,0251060,4,Roman rocket/rucola,"Eruca sativa, "
+EN,282,278.0,0820040,4,Cardamom,"Elettaria cardamomum, "
+EN,132,114.0,0239000,3,(e) other fruiting vegetables,
+EN,293,291.0,0840020,4,Ginger (10),"Zingiber officinale, "
+EN,366,363.0,1020030,4,Goat,"Capra aegagrus hircus, "
+EN,241,231.0,0500990,5,Others (2),
+EN,220,208.0,0401120,4,Borage seeds,"Borago officinalis, "
+EN,68,65.0,0162030,4,Passionfruits/maracujas,"Passiflora edulis; syn: Passiflora laurifolia, "
+EN,165,147.0,0255000,3,(e) witloofs/Belgian endives,"Cichorium intybus Foliosum group, "
+EN,83,73.0,0163100,4,Durians,"Durio zibethinus, "
+EN,346,342.0,1015040,4,Kidney,
+EN,329,328.0,1013010,4,Muscle,
+EN,297,266.0,0850000,2,Bud spices,
+EN,216,208.0,0401080,4,Mustard seeds,"Brassica juncea, Brassica nigra, Sinapis alba, "
+EN,262,245.0,0639000,3,(d) any other parts of the plant,
+EN,86,,0200000,1,"VEGETABLES, FRESH or FROZEN",
+EN,82,73.0,0163090,4,Breadfruits,"Artocarpus altilis, "
+EN,171,166.0,0256050,4,Sage,"Salvia officinalis, "
+EN,380,,1200000,1,PRODUCTS OR PART OF PRODUCTS EXCLUSIVELY USED FOR ANIMAL FEED PRODUCTION (8),
+EN,356,313.0,1017000,3,(g) other farmed terrestrial animals,
+EN,194,185.0,0270090,4,Palm hearts,"Bactris gasipaes, Cocos nucifera, Daemonorops jenkinsiana, Euterpe edulis, Euterpe oleracea, "
+EN,375,312.0,1040000,2,Honey and other apiculture products (7),"N.A., "
+EN,381,,1300000,1,PROCESSED FOOD PRODUCTS (9),
+EN,211,208.0,0401030,4,Poppy seeds,"Papaver somniferum subsp. somniferum, "
+EN,150,148.0,0251020,4,Lettuces,"Lactuca sativa, "
+EN,237,231.0,0500060,4,Rice,"Oryza sativa, "
+EN,120,115.0,0231990,5,Others (2),
+EN,179,178.0,0260010,4,Beans (with pods),"Phaseolus vulgaris, "
+EN,16,9.0,0120070,4,Macadamias,"Macadamia ternifolia; syn: Macadamia integrifolia, Macadamia tetraphylla, "
+EN,272,267.0,0810050,4,Cumin,"Cuminum cyminum, "
+EN,88,87.0,0211000,3,(a) potatoes,"Solanum tuberosum subsp. tuberosum, "
+EN,152,148.0,0251040,4,Cresses and other sprouts and shoots,"Lepidium sativum subsp. sativum, "
+EN,4,2.0,0110020,4,Oranges,"Citrus sinensis, "
+EN,360,356.0,1017040,4,Kidney,
+EN,64,56.0,0161990,5,Others (2),
+EN,98,95.0,0213030,4,Celeriacs/turnip rooted celeries,"Apium graveolens var. rapaceum, "
+EN,142,133.0,0243000,3,(c) leafy brassica,
+EN,118,115.0,0231030,4,Aubergines/eggplants,"Solanum melongena, "
+EN,166,147.0,0256000,3,(f) herbs and edible flowers,
+EN,219,208.0,0401110,4,Safflower seeds,"Carthamus tinctorius, "
+EN,254,253.0,0632010,4,Strawberry,"Fragaria x ananassa, "
+EN,347,342.0,1015050,4,Edible offals (other than liver and kidney),
+EN,372,369.0,1030030,4,Geese,"Anser anser, "
+EN,128,126.0,0233020,4,Pumpkins,"Cucurbita maxima, "
+EN,81,73.0,0163080,4,Pineapples,"Ananas comosus, "
+EN,76,73.0,0163030,4,Mangoes,"Mangifera indica, "
+EN,11,9.0,0120020,4,Brazil nuts,"Bertholletia excelsa, "
+EN,278,266.0,0820000,2,Fruit spices,
+EN,15,9.0,0120060,4,Hazelnuts/cobnuts,"Corylus avellana, "
+EN,164,147.0,0254000,3,(d) watercresses,"Nasturtium officinale, "
+EN,321,313.0,1012000,3,(b) bovine,"Bos primigenius taurus, "
+EN,158,147.0,0252000,3,(b) spinaches and similar leaves,
+EN,231,,0500000,1,CEREALS,
+EN,181,178.0,0260030,4,Peas (with pods),"Pisum sativum, "
+EN,303,301.0,0860990,5,Others (2),
+EN,119,115.0,0231040,4,Okra/lady's fingers,"Abelmoschus esculentus, "
+EN,105,95.0,0213100,4,Swedes/rutabagas,"Brassica napus subsp. napobrassica, "
+EN,135,134.0,0241010,4,Broccoli,"Brassica oleracea var. italica, "
+EN,228,225.0,0402030,4,Oil palms fruits,"Attalea maripa, Elaeis guineensis, Elaeis oleifera, "
+EN,177,166.0,0256990,5,Others (2),
+EN,362,356.0,1017990,5,Others (2),
+EN,195,185.0,0270990,5,Others (2),
+EN,222,208.0,0401140,4,Hemp seeds,"Cannabis sativa subsp. sativa, Cannabis sativa subsp. spontanea, "
+EN,213,208.0,0401050,4,Sunflower seeds,"Helianthus annuus, "
+EN,3,2.0,0110010,4,Grapefruits,"Citrus paradisi, "
+EN,315,314.0,1011010,4,Muscle,
+EN,325,321.0,1012040,4,Kidney,
+EN,256,253.0,0632030,4,Mate/maté,"Ilex paraguariensis, "
+EN,202,201.0,0300010,4,Beans,"Phaseolus vulgaris, "
+EN,225,207.0,0402000,2,Oil fruits,
+EN,74,73.0,0163010,4,Avocados,"Persea americana, "
+EN,232,231.0,0500010,4,Barley,"Hordeum vulgare, "
+EN,247,246.0,0631010,4,Chamomile,"Chamaemelum nobile; syn: Anthemis nobilis, Matricaria  recutita; syn: Matricaria chamomilla, "
+EN,77,73.0,0163040,4,Papayas,"Carica papaya, "
+EN,35,1.0,0150000,2,Berries and small fruits,
+EN,191,185.0,0270060,4,Leeks,"Allium ampeloprasumampeloprasum Pearl-Onion Group; syn: Allium porrum var. sectivum, "
+EN,248,246.0,0631020,4,Hibiscus/roselle,"Hibiscus sabdariffa, "
+EN,14,9.0,0120050,4,Coconuts,"Cocos nucifera, "
+EN,284,278.0,0820060,4,"Peppercorn (black, green and white)","Piper nigrum, "
+EN,348,342.0,1015990,5,Others (2),
+EN,267,266.0,0810000,2,Seed spices,
+EN,255,253.0,0632020,4,Rooibos,"Aspalathus linearis, "
+EN,339,335.0,1014040,4,Kidney,
+EN,148,147.0,0251000,3,(a) lettuces and salad plants,
+EN,223,208.0,0401150,4,Castor beans,"Ricinus communis, "
+EN,8,2.0,0110990,5,Others (2),
+EN,39,35.0,0152000,3,(b) strawberries,"Fragaria x ananassa, "
+EN,131,114.0,0234000,3,(d) sweet corn,"Zea mays convar. saccharata, "
+EN,276,267.0,0810090,4,Nutmeg,"Myristica fragrans, "
+EN,55,1.0,0160000,2,Miscellaneous fruitswith,
+EN,274,267.0,0810070,4,Fennel,"Foeniculum vulgare, "
+EN,48,45.0,0154030,4,"Currants (black, red and white)","Ribes nigrum, Ribes rubrum, "
+EN,2,1.0,0110000,2,Citrus fruits,
+EN,96,95.0,0213010,4,Beetroots,"Beta vulgaris var. vulgaris, "
+EN,147,86.0,0250000,2,"Leaf vegetables, herbs and edible flowers",
+EN,252,246.0,0631990,5,Others (2),
+EN,58,56.0,0161020,4,Figs,"Ficus carica, "
+EN,122,121.0,0232010,4,Cucumbers,"Cucumis sativus, "
+EN,201,,0300000,1,PULSES,
+EN,104,95.0,0213090,4,Salsifies,"Tragopogon porrifolius, "
+EN,180,178.0,0260020,4,Beans (without pods),"Phaseolus vulgaris, "
+EN,295,291.0,0840040,4,Horseradish (11),"Armoracia rusticana, "
+EN,188,185.0,0270030,4,Celeries,"Apium graveolens var. dulce, "
+EN,261,258.0,0633990,5,Others (2),
+EN,281,278.0,0820030,4,Caraway,"Carum carvi, "
+EN,13,9.0,0120040,4,Chestnuts,"Castanea crenata, Castanea dentata, Castanea mollissima, Castanea sativa, "
+EN,9,1.0,0120000,2,Tree nuts,
+EN,51,45.0,0154060,4,Mulberries (black and white),"Morus alba, Morus nigra, "
+EN,87,86.0,0210000,2,Root and tuber vegetables,
+EN,307,,0900000,1,SUGAR PLANTS,
+EN,183,178.0,0260050,4,Lentils,"Lens culinaris; syn: Lens esculenta, "
+EN,184,178.0,0260990,5,Others (2),
+EN,235,231.0,0500040,4,Common millet/proso millet,"Panicum miliaceum, "
+EN,72,65.0,0162990,5,Others (2),
+EN,301,266.0,0860000,2,Flower pistil spices,
+EN,92,89.0,0212030,4,Yams,"Dioscorea spp., "
+EN,275,267.0,0810080,4,Fenugreek,"Trigonella foenum-graecum, "
+EN,41,40.0,0153010,4,Blackberries,"Rubus sect. Rubus, "
+EN,207,,0400000,1,OILSEEDS AND OIL FRUITS,
+EN,292,291.0,0840010,4,Liquorice,"Glycyrrhiza glabra, "
+EN,93,89.0,0212040,4,Arrowroots,"Maranta arundinacea, "
+EN,306,304.0,0870990,5,Others (2),
+EN,215,208.0,0401070,4,Soyabeans,"Glycine max, "
+EN,233,231.0,0500020,4,Buckwheat and other pseudocereals,"Fagopyrum esculentum, "
+EN,341,335.0,1014990,5,Others (2),
+EN,56,55.0,0161000,3,(a) edible peel,
+EN,227,225.0,0402020,4,Oil palms kernels,"Attalea maripa, Elaeis guineensis, Elaeis oleifera, "
+EN,110,108.0,0220020,4,Onions,"Allium cepa Common Onion Group, "
+EN,53,45.0,0154080,4,Elderberries,"Sambucus nigra, "
+EN,170,166.0,0256040,4,Parsley,"Petroselinum crispum, "
+EN,71,65.0,0162060,4,American persimmons/Virginia kaki,"Diospyros virginiana, "
+EN,97,95.0,0213020,4,Carrots,"Daucus carota subsp. sativus, "
+EN,12,9.0,0120030,4,Cashew nuts,"Anacardium occidentale, "
+EN,320,314.0,1011990,5,Others (2),
+EN,357,356.0,1017010,4,Muscle,
+EN,290,288.0,0830990,5,Others (2),
+EN,127,126.0,0233010,4,Melons,"Cucumis melo, "
+EN,371,369.0,1030020,4,Duck,"Anas platyrhynchos, "
+EN,344,342.0,1015020,4,Fat,
+EN,20,9.0,0120110,4,Walnuts,"Juglans nigra, Juglans regia, "
+EN,167,166.0,0256010,4,Chervil,"Anthriscus cerefolium, "
+EN,26,22.0,0130040,4,Medlars,"Mespilus germanica, "
+EN,343,342.0,1015010,4,Muscle,
+EN,359,356.0,1017030,4,Liver,
+EN,112,108.0,0220040,4,Spring onions/green onions and Welsh onions,"Allium cepa Common Onion Group, Allium fistulosum, "
+EN,63,56.0,0161070,4,Jambuls/jambolans,"Syzygium cuminii, "
+EN,351,349.0,1016020,4,Fat,
+EN,193,185.0,0270080,4,Bamboo shoots,"Bambusa vulgaris, Phyllostachys edulis, "
+EN,242,,0600000,1,"TEAS, COFFEE, HERBAL INFUSIONS, COCOA AND CAROBS",
+EN,57,56.0,0161010,4,Dates,"Phoenix dactylifera, "
+EN,203,201.0,0300020,4,Lentils,"Lens culinaris; syn: Lens esculenta, "
+EN,182,178.0,0260040,4,Peas (without pods),"Pisum sativum, "
+EN,22,1.0,0130000,2,Pome fruits,
+EN,258,245.0,0633000,3,(c) roots,
+EN,300,297.0,0850990,5,Others (2),
+EN,141,138.0,0242990,5,Others (2),
+EN,70,65.0,0162050,4,Star apples/cainitos,"Chrysophyllum cainito, "
+EN,60,56.0,0161040,4,Kumquats,"Fortunella japonica, Fortunella margarita, "
+EN,377,312.0,1060000,2,Terrestrial invertebrate animals,
+EN,61,56.0,0161050,4,Carambolas,"Averrhoa carambola, "
+EN,107,95.0,0213990,5,Others (2),
+EN,253,245.0,0632000,3,(b) leaves and herbs,
+EN,185,86.0,0270000,2,Stem vegetables,
+EN,287,278.0,0820990,5,Others (2),
+EN,136,134.0,0241020,4,Cauliflowers,"Brassica oleracea var. botrytis, "
+EN,376,312.0,1050000,2,Amphibians and Reptiles,
+EN,373,369.0,1030040,4,Quail,"Coturnix coturnix, Coturnix japonica, "
+EN,311,307.0,0900990,5,Others (2),
+EN,138,133.0,0242000,3,(b) head brassica,
+EN,144,142.0,0243020,4,Kales,"Brassica oleracea var. sabellica, Brassica oleracea var. viridis, "
+EN,40,35.0,0153000,3,(c) cane fruits,
+EN,66,65.0,0162010,4,"Kiwi fruits (green, red, yellow)","Actinidia chinensis, Actinidia deliciosa, "
+EN,44,40.0,0153990,5,Others (2),
+EN,176,166.0,0256100,4,Tarragon,"Artemisia dracunculus, "
+EN,378,312.0,1070000,2,Wild terrestrial vertebrate animals,
+EN,161,158.0,0252030,4,Chards/beet leaves,"Beta vulgaris var. flavescens, "
+EN,266,,0800000,1,SPICES,
+EN,101,95.0,0213060,4,Parsnips,"Pastinaca sativa, "
+EN,370,369.0,1030010,4,Chicken,"Gallus gallus, "
+EN,209,208.0,0401010,4,Linseeds,"Linum usitatissimum, "
+EN,374,369.0,1030990,5,Others (2),
+EN,331,328.0,1013030,4,Liver,
+EN,23,22.0,0130010,4,Apples,"Malus domestica, "
+EN,21,9.0,0120990,5,Others (2),
+EN,108,86.0,0220000,2,Bulb vegetables,
+EN,33,29.0,0140040,4,Plums,"Prunus domestica, "
+EN,123,121.0,0232020,4,Gherkins,"Cucumis sativus, "
+EN,358,356.0,1017020,4,Fat,
+EN,38,36.0,0151020,4,Wine grapes,"Vitis vinifera, "
+EN,62,56.0,0161060,4,Kaki/Japanese persimmons,"Diospyros kaki, "
+EN,172,166.0,0256060,4,Rosemary,"Rosmarinus officinalis, "
+EN,361,356.0,1017050,4,Edible offals (other than liver and kidney),
+EN,146,133.0,0244000,3,(d) kohlrabies,"Brassica oleracea var. gongylodes, "
+EN,43,40.0,0153030,4,Raspberries (red and yellow),"Rubus idaeus, "
+EN,313,312.0,1010000,2,Commodities from,
+EN,168,166.0,0256020,4,Chives,"Allium schoenoprasum, "
+EN,308,307.0,0900010,4,Sugar beet roots,"Beta vulgaris ssp. vulgaris var. altissima, "
+EN,299,297.0,0850020,4,Capers,"Capparis spinosa, "
+EN,151,148.0,0251030,4,Escaroles/broad-leaved endives,"Cichorium endivia var. latifolia, "
+EN,283,278.0,0820050,4,Juniper berry,"Juniperus communis, "
+EN,186,185.0,0270010,4,Asparagus,"Asparagus officinalis, "
+EN,6,2.0,0110040,4,Limes,"Citrus aurantiifolia, "
+EN,314,313.0,1011000,3,(a) swine,"Sus scrofa, "
+EN,218,208.0,0401100,4,Pumpkin seeds,"Cucurbita pepo Styrian Hulless Group, "
+EN,280,278.0,0820020,4,Sichuan pepper,"Zanthoxylum spp., "
+EN,279,278.0,0820010,4,Allspice/pimento,"Pimenta dioica; syn: Pimenta officinalis, "
+EN,263,242.0,0640000,2,Cocoa beans,"Theobroma cacao, "
+EN,294,291.0,0840030,4,Turmeric/curcuma,"Curcuma longa; syn: Curcuma domestica, "
+EN,298,297.0,0850010,4,Cloves,"Syzygium aromaticum; syn: Eugenia caryophyllata, "
+EN,310,307.0,0900030,4,Chicory roots,"Cichorium intybus Sativum group, "
+EN,246,245.0,0631000,3,(a) flowers,
+EN,100,95.0,0213050,4,Jerusalem artichokes,"Helianthus tuberosus, "
+EN,318,314.0,1011040,4,Kidney,
+EN,130,126.0,0233990,5,Others (2),
+EN,45,35.0,0154000,3,(d) other small fruits and berries,
+EN,257,253.0,0632990,5,Others (2),
+EN,317,314.0,1011030,4,Liver,
+EN,264,242.0,0650000,2,Carobs/Saint John's breads,"Ceratonia siliqua, "
+EN,250,246.0,0631040,4,Jasmine,"Jasminum officinale, Jasminum sambac, "
+EN,236,231.0,0500050,4,Oat,"Avena sativa, "
+EN,18,9.0,0120090,4,Pine nut kernels,"Pinus pinea, "
+EN,302,301.0,0860010,4,Saffron,"Crocus sativus, "
+EN,259,258.0,0633010,4,Valerian,"Valeriana officinalis, "
+EN,175,166.0,0256090,4,Laurel/bay leaves,"Laurus nobilis, "
+EN,245,242.0,0630000,2,Herbal infusions from,
+EN,157,148.0,0251990,5,Others (2),
+EN,212,208.0,0401040,4,Sesame seeds,"Sesamum indicum, "
+EN,78,73.0,0163050,4,Granate apples/pomegranates,"Punica granatum, "
+EN,162,158.0,0252990,5,Others (2),
+EN,27,22.0,0130050,4,Loquats/Japanese medlars,"Eriobotrya japonica, "
+EN,46,45.0,0154010,4,Blueberries,"Vaccinium angustifolium, Vaccinium corymbosum, Vaccinium formosum, Vaccinium virgatum, "
+EN,271,267.0,0810040,4,Coriander,"Coriandrum sativum, "
+EN,345,342.0,1015030,4,Liver,
+EN,30,29.0,0140010,4,Apricots,"Armeniaca vulgaris; syn: Prunus armeniaca, "
+EN,353,349.0,1016040,4,Kidney,
+EN,129,126.0,0233030,4,Watermelons,"Citrullus vulgaris; syn: Citrullus lanatus, "
+EN,192,185.0,0270070,4,Rhubarbs,"Rheum rhabarbarum, "
+EN,156,148.0,0251080,4,Baby leaf crops (including brassica species),
+EN,210,208.0,0401020,4,Peanuts/groundnuts,"Arachis hypogaea, "
+EN,36,35.0,0151000,3,(a) grapes,
+EN,197,196.0,0280010,4,Cultivated fungi,
+EN,24,22.0,0130020,4,Pears,"Pyrus communis, "
+EN,50,45.0,0154050,4,Rose hips,"Rosa canina, Rosa majalis, Rosa rugosa, "
+EN,352,349.0,1016030,4,Liver,
+EN,208,207.0,0401000,2,Oilseeds,
+EN,113,108.0,0220990,5,Others (2),
+EN,273,267.0,0810060,4,Dill,"Anethum graveolens, "
+EN,89,87.0,0212000,3,(b) tropical root and tuber vegetables,
+EN,121,114.0,0232000,3,(b) cucurbits with edible peel,
+EN,196,86.0,0280000,2,"Fungi, mosses and lichens",
+EN,134,133.0,0241000,3,(a) flowering brassica,
+EN,230,225.0,0402990,5,Others (2),
+EN,326,321.0,1012050,4,Edible offals (other than liver and kidney),
+EN,126,114.0,0233000,3,(c) cucurbits with inedible peel,
+EN,73,55.0,0163000,3,"(c) inedible peel, large",
+EN,285,278.0,0820070,4,Vanilla,"Vanilla planifolia; syn: Vanilla fragrans, "
+EN,323,321.0,1012020,4,Fat,
+EN,79,73.0,0163060,4,Cherimoyas,"Annona cherimola, "
+EN,90,89.0,0212010,4,Cassava roots/manioc,"Manihot esculenta, "
+EN,59,56.0,0161030,4,Table olives,"Olea europaea, "
+EN,206,201.0,0300990,5,Others (2),
+EN,139,138.0,0242010,4,Brussels sprouts,"Brassica oleracea var. gemmifera, "
+EN,217,208.0,0401090,4,Cotton seeds,"Gossypium barbadense, Gossypium herbaceum, "
+EN,133,86.0,0240000,2,Brassica vegetables(excluding brassica roots and brassica baby leaf crops),
+EN,324,321.0,1012030,4,Liver,
+EN,31,29.0,0140020,4,Cherries (sweet),"Cerasus avium; syn: Prunus avium, "
+EN,304,266.0,0870000,2,Aril spices,
+EN,251,246.0,0631050,4,Lime/linden,"Tilia cordata, Tilia platyphyllos, Tilia tomentosa; syn: Tilia argentea, "
+EN,277,267.0,0810990,5,Others (2),
+EN,369,312.0,1030000,2,Birds eggs,
+EN,289,288.0,0830010,4,Cinnamon,"Cinnamomum verum; syn: Cinnamomum zeylanicum, "
+EN,249,246.0,0631030,4,Rose,"Rosa spp., "
+EN,260,258.0,0633020,4,Ginseng,"Panax ginseng, Panax quinquefolius, "
+EN,322,321.0,1012010,4,Muscle,
+EN,143,142.0,0243010,4,Chinese cabbages/pe-tsai,"Brassica rapa subsp. pekinensis, "
+EN,178,86.0,0260000,2,Legume vegetables,
+EN,244,242.0,0620000,2,Coffee beans,"Coffea arabica, Coffea canephora; syn: Coffea robusta, Coffea liberica, "
+EN,224,208.0,0401990,5,Others (2),
+EN,226,225.0,0402010,4,Olives for oil production,"Olea europaea var. europaea, "
+EN,65,55.0,0162000,3,"(b) inedible peel, small",
+EN,332,328.0,1013040,4,Kidney,
+EN,234,231.0,0500030,4,Maize/corn,"Zea mays, "
+EN,125,121.0,0232990,5,Others (2),
+EN,29,1.0,0140000,2,Stone fruits,
+EN,124,121.0,0232030,4,Courgettes,"Cucurbita pepo Zucchini Group, "
+EN,291,266.0,0840000,2,Root and rhizome spices,
+EN,187,185.0,0270020,4,Cardoons,"Cynara cardunculus Cardoon group, "
+EN,268,267.0,0810010,4,Anise/aniseed,"Pimpinella anisum, "
+EN,243,242.0,0610000,2,Teas,"Camellia sinensis, "
+EN,42,40.0,0153020,4,Dewberries,"Rubus caesius, "
+EN,190,185.0,0270050,4,Globe artichokes,"Cynara cardunculus Globe artichoke group, "
+EN,174,166.0,0256080,4,Basil and edible flowers,"Ocimum basilicum, "
+EN,364,363.0,1020010,4,Cattle,"Bos primigenius taurus, "
+EN,91,89.0,0212020,4,Sweet potatoes,"Ipomoea batatas, "
+EN,84,73.0,0163110,4,Soursops/guanabanas,"Annona muricata, "
+EN,106,95.0,0213110,4,Turnips,"Brassica rapa subsp. rapa, "
+EN,94,89.0,0212990,5,Others (2),
+EN,116,115.0,0231010,4,Tomatoes,"Lycopersicon esculentum, "
+EN,355,349.0,1016990,5,Others (2),
+EN,145,142.0,0243990,5,Others (2),
+EN,333,328.0,1013050,4,Edible offals (other than liver and kidney),
+EN,5,2.0,0110030,4,Lemons,"Citrus limon, "
+EN,47,45.0,0154020,4,Cranberries,"Vaccinium macrocarpon, "
+EN,199,196.0,0280990,4,Mosses and lichens,
+EN,85,73.0,0163990,5,Others (2),
+EN,354,349.0,1016050,4,Edible offals (other than liver and kidney),
+EN,25,22.0,0130030,4,Quinces,"Cydonia oblonga, "
+EN,99,95.0,0213040,4,Horseradishes,"Armoracia rusticana, "
+EN,305,304.0,0870010,4,Mace,"Myristica fragrans, "
+EN,337,335.0,1014020,4,Fat,
+EN,239,231.0,0500080,4,Sorghum,"Sorghum bicolor, "
+EN,240,231.0,0500090,4,Wheat,"Triticum aestivum, "
+EN,67,65.0,0162020,4,Litchis/lychees,"Litchi chinensis, "
+EN,189,185.0,0270040,4,Florence fennels,"Foeniculum vulgare var. azoricum, "
+EN,334,328.0,1013990,5,Others (2),
